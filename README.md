@@ -10,7 +10,7 @@
   * [Questions](#Questions)
 
 # Description
-This budget app lets users add and subtract expenses, on or by being offline. 
+This budget app lets users add and subtract expenses, on and offline. 
 ## Screenshot
 
 
@@ -23,9 +23,13 @@ View live through Heroku [here](https://frozen-spire-97351.herokuapp.com/).
 This application is deployed and hosted on [Heroku](https://frozen-spire-97351.herokuapp.com/). No installation is needed for use. 
 
 # Usage
-This Application can be used by those who want to keep track of their workouts and stats throughout their fitness journey. 
+This application can be used by those who like to keep track of their expenses. Users are allowed to enter deposits or expenses and then save information. A table is created to display all information saved and provide a visualization of transaction. 
 
-
+# Technologies
+* HTML 
+* CSS 
+* JavaScript 
+* Mongo DB
 
 # Questions
 Have any questions? Contact me by email Roxette.Banos@gmail.com
